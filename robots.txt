@@ -23,3 +23,14 @@ Disallow: /evenements/action~http:/
 Disallow: /evenements/action~default/
 Disallow: /evenements/action~poster/
 Disallow: /evenements/action~*/
+Disallow: /evenement/action~posterboard/
+Disallow: /evenement/action~agenda/
+Disallow: /evenement/action~oneday/
+Disallow: /evenement/action~month/
+Disallow: /evenement/action~week/
+Disallow: /evenement/action~stream/
+Disallow: /evenement/action~undefined/
+Disallow: /evenement/action~http:/
+Disallow: /evenement/action~default/
+Disallow: /evenement/action~poster/
+Disallow: /evenement/action~*/
