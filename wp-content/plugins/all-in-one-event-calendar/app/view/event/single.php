@@ -91,9 +91,9 @@ class Ai1ec_View_Event_Single extends Ai1ec_Base {
                 ->get( 'view.calendar.subscribe-button' )
                 ->get_labels(),
             'text_get_calendar'       => Ai1ec_I18n::__( 'Get a Timely Calendar' ),
-            'text_when'               => __( 'When:', AI1EC_PLUGIN_NAME ),
-            'text_where'              => __( 'Where:', AI1EC_PLUGIN_NAME ),
-            'text_cost'               => __( 'Cost:', AI1EC_PLUGIN_NAME ),
+            'text_when'               => __( 'Date:', AI1EC_PLUGIN_NAME ),
+            'text_where'              => __( 'lieu:', AI1EC_PLUGIN_NAME ),
+            'text_cost'               => __( 'Participation:', AI1EC_PLUGIN_NAME ),
             'text_contact'            => __( 'Contact:', AI1EC_PLUGIN_NAME ),
             'text_tickets'            => __( 'Tickets:', AI1EC_PLUGIN_NAME ),
             'text_free'               => __( 'Free', AI1EC_PLUGIN_NAME ),
